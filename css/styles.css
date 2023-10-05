@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    background-color: #FAF9F6; 
-    color: #2C3A47;
+    /* background-color: #FAF9F6;  */
+    /* color: #2C3A47; */
     font-size: 16px;
     line-height: 1.5;
 }
@@ -347,7 +347,7 @@ table, th, td {
 }
 
 body {
-    background-image: url("images/blur-achtergrond.png");
+    background-image: url("/images/blur-achtergrond.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
